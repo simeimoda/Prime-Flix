@@ -7,9 +7,9 @@
 
 <table>
   <tr>
-    <td><img src="./images/screenshot01.png" alt="Screenshot 01" width="100%"></td>
-    <td><img src="./images/screenshot02.png" alt="Screenshot 02" width="100%"></td>
-    <td><img src="./images/screenshot03.png" alt="Screenshot 02" width="100%"></td>
+    <td><img src="./src/images/screenshot01.png" alt="Screenshot 01" width="100%"></td>
+    <td><img src="./src/images/screenshot02.png" alt="Screenshot 02" width="100%"></td>
+    <td><img src="./src/images/screenshot03.png" alt="Screenshot 02" width="100%"></td>
   </tr>
 </table>
 
