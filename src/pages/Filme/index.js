@@ -42,7 +42,7 @@ function Filme(){
     function salvarFilme(){
         const minhaLista = localStorage.getItem("@primeflix");
 
-        let filmesSalvos = JSON.parse(minhaLista) || '[]';
+        let filmesSalvos = JSON.parse(minhaLista || '[]');
 
         const hasFilme = filmesSalvos.some( (filmesSalvo) => filmesSalvo.id === filme.id );
 
