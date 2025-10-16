@@ -2,7 +2,7 @@
 
 > A movie catalog developed as a ReactJS study project. This application consumes [The Movie Database (TMDB)](https://www.themoviedb.org/) API to list current movies, display details, and allow users to manage their own list of favorites.
 
-**[🚀 Live Demo Here!](https://prime-flix-git-main-simeis-projects-c8ff22e1.vercel.app?_vercel_share=jn4LqfrHPerVO3KZcleutEW8MoEzbdeB)**
+**[🚀 Live Demo Here!](https://prime-flix-4bu7j90pj-simeis-projects-c8ff22e1.vercel.app?_vercel_share=donwcOnW2CdduWHJ9uxS2KuR7VQyknsn)**
 ---
 
 <table>
