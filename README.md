@@ -2,7 +2,7 @@
 
 > A movie catalog developed as a ReactJS study project. This application consumes [The Movie Database (TMDB)](https://www.themoviedb.org/) API to list current movies, display details, and allow users to manage their own list of favorites.
 
-**[🚀 Live Demo Here!](https://SEU_LINK_DO_GITHUB_PAGES.io)**
+**[🚀 Live Demo Here!](https://prime-flix-git-main-simeis-projects-c8ff22e1.vercel.app)**
 ---
 
 <table>
@@ -66,7 +66,7 @@ Follow the steps below to run the project on your local machine.
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd Prime-Flix
+    cd prime-flix
     ```
 
 3.  **Install the dependencies:**
