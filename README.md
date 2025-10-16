@@ -2,11 +2,14 @@
 
 > A movie catalog developed as a ReactJS study project. This application consumes [The Movie Database (TMDB)](https://www.themoviedb.org/) API to list current movies, display details, and allow users to manage their own list of favorites.
 
+**[🚀 Live Demo Here!](https://SEU_LINK_DO_GITHUB_PAGES.io)**
+---
+
 <table>
   <tr>
-    <td><img src="./assets/screenshot01.png" alt="Screenshot 01" width="100%"></td>
-    <td><img src="./assets/screenshot02.png" alt="Screenshot 02" width="100%"></td>
-    <td><img src="./assets/screenshot03.png" alt="Screenshot 02" width="100%"></td>
+    <td><img src="./images/screenshot01.png" alt="Screenshot 01" width="100%"></td>
+    <td><img src="./images/screenshot02.png" alt="Screenshot 02" width="100%"></td>
+    <td><img src="./images/screenshot03.png" alt="Screenshot 02" width="100%"></td>
   </tr>
 </table>
 
@@ -58,12 +61,12 @@ Follow the steps below to run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git)
+    git clone [https://github.com/simeimoda/Prime-Flix.git]
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd REPOSITORY_NAME
+    cd Prime-Flix
     ```
 
 3.  **Install the dependencies:**
